@@ -1,0 +1,4 @@
+name: ClickerfyMuseum
+version: '${version}'
+main: de.bybackfish.clickerfymuseum.ClickerfyMuseum
+api-version: '1.20'
